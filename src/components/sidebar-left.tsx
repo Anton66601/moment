@@ -72,7 +72,7 @@ const data = {
       icon: Settings2,
     },
     {
-      title: "Help",
+      title: "Ayuda",
       url: "#",
       icon: MessageCircleQuestion,
     },
